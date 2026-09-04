@@ -5,18 +5,56 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs;DSA+Problem+Solver;IoT+and+Cloud+Enthusiast;Building+Real+World+Projects+🚀;Future+Software+Engineer+at+Top+MNC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs;DSA+Problem+Solver;IoT+and+Cloud+Enthusiast;GSSoC+2026+Contributor+🌸;Building+Real+World+Projects+🚀;Future+Software+Engineer+at+Top+MNC" />
 </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/assets/handshake.gif" width="100%">
+</p>
+
 ---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kalyani-jadhav-project&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=girlscript"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
 </p>
+
+---
+
+# 🌸 GirlScript Summer of Code 2026 — My Badges
+
+<p align="center">
+<a href="https://gssoc.girlscript.org/profile/5684edce-9bf1-47ad-8f1c-8a30901a76cf">
+<img src="https://img.shields.io/badge/GSSoC'26-View%20My%20Profile-FF4F8B?style=for-the-badge&logo=girlscript&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_Power_Contributor-Rare-9b59b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐_Rising_Star-Uncommon-1abc9c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👣_First_Steps-Common-808080?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/✅_Profile_Complete-Common-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_Point_Scorer-Common-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💰_Bounty_Hunter-Common-808080?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/⚔️_Code_Warrior-Common-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚩_Getting_Started-Common-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/8%20Badges%20Earned-GSSoC'26-blueviolet?style=for-the-badge"/>
+</p>
+
+> 💡 These badges are pulled live from my [GSSoC'26 profile](https://gssoc.girlscript.org/profile/5684edce-9bf1-47ad-8f1c-8a30901a76cf) — an official open-source program by GirlScript Foundation. I'm actively contributing to open-source projects, solving issues, and leveling up as a developer!
 
 ---
 
@@ -34,6 +72,7 @@
 - 🌱 Currently learning Spring Boot, Microservices & AWS
 - 💻 Strong in Java, SQL, DSA
 - 🔌 Built IoT Projects using Arduino
+- 🌸 Active Open Source Contributor @ GirlScript Summer of Code 2026
 - 🚀 Passionate about Backend Development
 - 🎯 Goal: Become Software Engineer at Top MNC
 - 📫 Email: **kalyanijadhav654@gmail.com**
@@ -50,6 +89,10 @@
 
 <a href="https://github.com/kalyani-jadhav-project">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/5684edce-9bf1-47ad-8f1c-8a30901a76cf">
+<img src="https://img.shields.io/badge/GSSoC-FF4F8B?style=flat&logo=girlscript&logoColor=white"/>
 </a>
 
 </p>
@@ -141,6 +184,8 @@
 <img src="https://raw.githubusercontent.com/kalyani-jadhav-project/kalyani-jadhav-project/output/github-contribution-grid-snake.svg"/>
 </p>
 
+> ⚙️ **Setup note:** the snake animation needs a small GitHub Action running on your profile repo (`kalyani-jadhav-project/kalyani-jadhav-project`) to generate that SVG. If you haven't added it yet, search "github-contribution-grid-snake action" — it's a 2-minute copy-paste workflow file.
+
 ---
 
 # ⚡ Coding Quote
@@ -154,7 +199,7 @@
 # 💡 Developer Mindset
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Designing+REST+APIs;Learning+Microservices;Debugging+Spring+Boot+Apps;Building+Projects+Daily;Never+Stop+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Designing+REST+APIs;Learning+Microservices;Debugging+Spring+Boot+Apps;Contributing+to+Open+Source+🌸;Building+Projects+Daily;Never+Stop+Learning+🚀" />
 </p>
 
 ---
@@ -171,9 +216,21 @@ class KalyaniJadhav {
         "MySQL",
         "Hibernate",
         "AWS",
-       
+        "Open Source"
     };
 
-    String goal = "Become Top Software Engineer 🚀";
+    String currentEvent = "GirlScript Summer of Code 2026";
 
+    String goal = "Become Top Software Engineer 🚀";
 }
+```
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/kalyani-jadhav-project">kalyani-jadhav-project</a> — Thanks for visiting my profile!
+</p>
